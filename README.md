@@ -1,6 +1,6 @@
 AI-Nurse-Notes 🩺🤖
 
-<img width="1123" height="791" alt="Nn_color" src="https://github.com/user-attachments/assets/2c5655d5-de41-4667-a847-5ec763cb1447" />
+<img width="1123" height="791" alt="Nn" src="https://github.com/user-attachments/assets/1c07f4c0-e594-4ab2-86cc-5fa246f6a2e9" />
 
 Simulador de correção de registros de enfermagem com IA (MVP)
 , integrando as normas do COFEN e diferenciando competências entre Enfermeiros e Técnicos.
