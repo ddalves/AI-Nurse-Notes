@@ -1,6 +1,9 @@
 AI-Nurse-Notes 🩺🤖
 
-Protótipo de IA (MVP) para validação técnica de registros de enfermagem, integrando as normas do COFEN e diferenciando competências entre Enfermeiros e Técnicos.
+<img width="1123" height="791" alt="Nn_color" src="https://github.com/user-attachments/assets/2c5655d5-de41-4667-a847-5ec763cb1447" />
+
+Simulador de correção de registros de enfermagem com IA (MVP)
+, integrando as normas do COFEN e diferenciando competências entre Enfermeiros e Técnicos.
 
 📌 Sobre o Projeto
 Este projeto nasce da necessidade de melhorar a precisão e a legalidade dos registros de enfermagem em prontuários de saúde. Utilizando modelos de linguagem de larga escala (LLM), o sistema atua como um revisor em tempo real, transformando anotações informais em registros técnicos padronizados.
