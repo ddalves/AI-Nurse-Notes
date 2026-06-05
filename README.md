@@ -87,7 +87,7 @@ pip install numpy PyPDF2 google-generativeai
 
 1. Clone o repositório
 2. Adicione sua **Google AI API Key** na Célula 2 do notebook
-3. Coloque o PDF `anotacao-de-enfermagem.pdf` na pasta do projeto
+3. Coloque o PDF `Enviando por email anotacao-de-enfermagem.pdf` na pasta do projeto
 
 ### Execução
 
@@ -131,7 +131,7 @@ competências do técnico de enfermagem, conforme Resolução COFEN nº 564/2017
 | Tecnologia | Uso |
 |-----------|-----|
 | **Python 3.10+** | Linguagem base |
-| **Google Gemini 1.5 Flash** | Geração e correção do registro |
+| **Google Gemini 2.5 Flash** | Geração e correção do registro |
 | **Gemini text-embedding** | Vetorização semântica dos chunks |
 | **PyPDF2** | Extração de texto do PDF do COFEN |
 | **NumPy** | Cálculo de similaridade de cosseno |
@@ -144,7 +144,7 @@ competências do técnico de enfermagem, conforme Resolução COFEN nº 564/2017
 ```
 📦 projeto_enfermagem_ia/
 ├── 📓 rag_enfermagem.ipynb          # Notebook principal
-├── 📄 anotacao-de-enfermagem.pdf    # Base normativa (COFEN)
+├── 📄 Enviando por email anotacao-de-enfermagem.pdf    # Base normativa (COFEN)
 ├── 💾 cache_embeddings.json         # Cache gerado automaticamente
 └── 📋 README.md
 ```
