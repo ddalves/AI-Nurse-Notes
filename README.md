@@ -7,7 +7,7 @@
 **Transformando anotações informais em registros técnicos, legais e padronizados com IA generativa e RAG.**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Gemini](https://img.shields.io/badge/Google_Gemini-1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
+[![Gemini](https://img.shields.io/badge/Google_Gemini-2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
 [![COFEN](https://img.shields.io/badge/Normas-COFEN-00897B?style=flat-square)](https://cofen.gov.br)
 [![Status](https://img.shields.io/badge/Status-MVP-orange?style=flat-square)]()
 [![License](https://img.shields.io/badge/Licença-MIT-green?style=flat-square)](LICENSE)
