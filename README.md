@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/c8ff0047-8d4b-4eee-9cad-987f462c55f8" width="120" alt="NurseAI Logo"/>
 
-# NurseAI — Revisor Inteligente de Registros de Enfermagem
+# NurseAI — Revisor de Registros de Enfermagem
 
 **Transformando anotações informais em registros técnicos, legais e padronizados com IA generativa e RAG.**
 
