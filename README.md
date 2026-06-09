@@ -20,11 +20,11 @@
 
 Registros de enfermagem imprecisos ou fora dos padrões técnicos e legais representam um risco real: responsabilização jurídica do profissional, falhas na continuidade do cuidado e auditoria comprometida. A correção manual é lenta e sujeita a inconsistências.
 
-**NurseAI** resolve isso automaticamente — em segundos.
+**NurseNotesAI** resolve isso automaticamente — em segundos.
 
 ---
 
-## 💡 O que é o NurseAI?
+## 💡 O que é o NurseNotesAI?
 
 Um revisor de prontuário baseado em **LLM + RAG** que:
 
